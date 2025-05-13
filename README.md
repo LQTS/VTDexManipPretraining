@@ -3,16 +3,16 @@
 The code repository is for the ***VTDexManip*** dataset and pretraining, built upon [Voltron](https://github.com/siddk/voltron-robotics). These scripts can: 
 
 - preprocess the dataset;
-- pretrain the [benchmark]() models (including **VT-JointPretrain**, **V-Pretrain** and **T-Pretrain**);
+- pretrain the [benchmark](https://github.com/LQTS/VTDexManip) models (including **VT-JointPretrain**, **V-Pretrain** and **T-Pretrain**);
 - visualize the dataset.
 
 # **Dependencies**
 
-( Follow the [instructions]() )
+( Follow the [instructions](https://github.com/LQTS/VTDexManip?tab=readme-ov-file#dependencies) )
 
 # Dataset Preparation
 
-We have released the dataset and anyone can access the dataset through the [link]() . The password is 
+We have released the dataset and anyone can access the dataset through the [link](https://1drv.ms/f/c/9054151f0ba654c9/EslUpgsfFVQggJB7AQAAAAABSp31p8Fft1mtHyOwJNqmoA) . The password is **vtdexmanip**
 
 Put the downloaded dataset folder into "**data/**", and the file tree of "**data/**"will look like this:
 
