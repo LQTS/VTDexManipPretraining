@@ -88,3 +88,20 @@ python vitac_pretrain/visualize.py
 ```
 
 You can change ***traj_id in the code***  to visualize the different manipulation trajectory.
+
+# Contact
+
+If you have any questions or need support, please contact <a href="mailto:l_qingtao@zju.edu.cn"> Qingtao Liu</a> or <a href="mailto:qi.ye@zju.edu.cn">Qi Ye</a>.
+.
+
+# BibTeX
+```
+@inproceedings{
+liu2025vtdexmanip,
+title={VTDexManip: A Dataset and Benchmark for Visual-tactile Pretraining and Dexterous Manipulation with Reinforcement Learning},
+author={Qingtao Liu and Yu Cui and Zhengnan Sun and Gaofeng Li and Jiming Chen and Qi Ye},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=jf7C7EGw21}
+}
+```
